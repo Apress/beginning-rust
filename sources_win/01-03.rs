@@ -1,0 +1,2 @@
+// ILLEGAL
+fn Main() {}
