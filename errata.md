@@ -1,6 +1,6 @@
 # Errata for *Beginning Rust*
 
-On **page 85** [technical accuracy]:
+On **page 72** [technical accuracy]:
  
 let i = 8;
 let j = 8_000_000_000;
